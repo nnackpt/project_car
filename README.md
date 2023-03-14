@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Project car price
 
-Description of the app ...
+This is my project!
 
 ## Demo App
 
